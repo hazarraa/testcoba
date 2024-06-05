@@ -10,6 +10,10 @@ namespace testcoba
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("asep komaridus");
+            Console.WriteLine("asep komaridus 444");
+            Console.WriteLine("sep");
+
         }
     }
 }
